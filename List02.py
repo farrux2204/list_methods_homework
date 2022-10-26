@@ -11,4 +11,4 @@ def main(fruits,x,i):
     a=fruits
     a.insert(i,x)
     return a
-print(main(['olma','nok','behi'],'apple',3))
+print(main(['olma','nok','behi'],'apple',0))
